@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS mensagem_resposta;
+DROP TABLE IF EXISTS mensagem_notificacao;
+DROP TABLE IF EXISTS mensagem;
+DROP TABLE IF EXISTS licitacao_notificacao;
+DROP TABLE IF EXISTS licitacao;
+DROP TABLE IF EXISTS versao;
+DROP TABLE IF EXISTS leilao;
+DROP TABLE IF EXISTS utilizador;
+DROP TABLE IF EXISTS artigo;
